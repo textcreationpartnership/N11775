@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:014870_0000_0F97396A958819A8"/>
-            <pb facs="tcp:014870_0001_0F97396BCDA754B0" rendition="simple:additions"/>
+            <pb facs="unknown:014870_0000_0F97396A958819A8"/>
+            <pb facs="unknown:014870_0001_0F97396BCDA754B0"
+                rendition="simple:additions"/>
             <head>FOR the Encouragement of those that shall Inlist in the Continental ArmysThe CONGRESS in their Resolves of <hi>September</hi> 16<hi>th,</hi> 18<hi>th,</hi> 19<hi>th, October</hi> 8<hi>th,</hi> and <hi>November</hi> 12<hi>th,</hi> 1776, Engage,</head>
             <p>THAT <hi>Twenty Dollars</hi> be given as a Bounty to each Non-Commis<g ref="char:EOLhyphen"/>sioned Officer and Private Soldier who shall Inlist to serve for the Term of Three Years.</p>
             <p>That each Non-Commi<gap reason="illegible" extent="3 letters">
